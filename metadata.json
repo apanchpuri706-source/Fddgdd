@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Thumbnail & Logo Hub",
+  "description": "A web application that uses AI to generate custom YouTube thumbnails and logos from text prompts. Users can specify the desired format and receive a high-quality image ready for download.",
+  "requestFramePermissions": []
+}
